@@ -55,18 +55,6 @@ For inspiration, you can take a look at **SWE_Bench_Pro**, which is a collection
 * Ask the model to write a CUDA kernel  
 * Ask the model to clean a dataset  
 
----
-
-✅ If you'd like, I can also format this into a full GitHub repository structure with:
-
-* `README.md`  
-* `task.py`  
-* `grader.py`  
-* `dataset/`  
-* `run.sh`
-
-
-
 hello-py
 ===
 
